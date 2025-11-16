@@ -1,0 +1,9 @@
+﻿  Gameobject.cpp
+D:\programming\Assiaginment3\Gameobject.cpp(73,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\programming\Assiaginment3\Gameobject.cpp(74,36): warning C4018: “<”: 有符号/无符号不匹配
+D:\programming\Assiaginment3\Gameobject.cpp(82,23): warning C4018: “<=”: 有符号/无符号不匹配
+  NPCmanager.cpp
+D:\programming\Assiaginment3\NPCmanager.cpp(55,37): warning C4018: “>=”: 有符号/无符号不匹配
+D:\programming\Assiaginment3\NPCmanager.cpp(56,35): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码...
+  Assiaginment3.vcxproj -> D:\programming\Assiaginment3\x64\Debug\Assiaginment3.exe
